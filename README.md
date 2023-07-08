@@ -7,4 +7,4 @@ Irányítás:
 
 Játékról:
 - ha a labda az alapvonalra ér pár másodperc gól öröm, majd a játékosok alapállapotba kerülnek
-- ha nincs gól és a pályaszélét érinti a ladba visszaugrik minden alapállapotra
+- ha nincs gól és a pályaszélét érinti a labda visszaugrik minden alapállapotra
