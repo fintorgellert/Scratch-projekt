@@ -11,4 +11,4 @@ Játékról:
 
 ## Kép
 
-![Játék kinézete](sratch.png)
+![Játék kinézete](scratch.png)
