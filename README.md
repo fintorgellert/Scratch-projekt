@@ -3,7 +3,7 @@ A projektben egy football játékot lehet játszani, amely célja, hogy egy perc
 
 ## Irányítás
 - Player 1: <br />
-  <img src="wasdKeys.png" alt="wasd keys image" width=10%>
+  <img src="wasdKeys.png" alt="wasd keys image" width=20%>
 - Player 2: <br />
   <img src="arrowKeys.png" alt="arraw keys image" width=20%>
 
