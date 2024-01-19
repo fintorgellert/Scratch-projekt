@@ -3,9 +3,9 @@ A projektben egy football játékot lehet játszani, amely célja, hogy egy perc
 
 ## Irányítás
 - Player 1: <br />
-  ![wasd keys image](wasdKeys.png)
+  <img src="wasdKeys.png" alt="wasd keys image" width=10%>
 - Player 2: <br />
-  ![arraw keys image](arrowKeys.png)
+  <img src="arrowKeys.png" alt="arraw keys image" width=20%>
 
 ## Játékról
 - ha a labda az alapvonalra ér pár másodperc gól öröm, majd a játékosok alapállapotba kerülnek
